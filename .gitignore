@@ -1,0 +1,9 @@
+/node_modules
+/dist
+/bundle
+/artifacts
+/cache
+/types
+/coverage
+.env
+/doc
